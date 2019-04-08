@@ -1,0 +1,30 @@
+# Build settings
+markdown:           kramdown
+permalink:          pretty
+
+
+# Dependencies
+
+markdown:           kramdown
+highlighter:        pygments
+gems:               [jekyll-paginate]
+
+# Permalinks
+permalink:          pretty
+
+# Setup
+title:              "Technical Writing"
+tagline:
+description:        "E235|Pierce College|SP19"
+host:               127.0.0.1
+url:                ""
+baseurl:            "/e235"
+email:              jloan@pierce.ctc.edu
+
+
+paginate:           5
+layout:             blog-post
+
+# Custom vars
+version:            2.0.0
+
