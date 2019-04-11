@@ -11,7 +11,7 @@ Monday [April 8]: Intro course/talk syllabus
 
 **Wednesday [April 10]:** Read (before class): Kate Scheidner ["Why You Should Consider a Career in Technical Writing"](https://www.northeastern.edu/graduate/blog/what-is-technical-writing/) and ["The Rhetorical Nature of Technical Writing"](https://en.wikibooks.org/wiki/Professional_and_Technical_Writing/Rhetoric) and the introductory elements of [The Programming Historian](https://programminghistorian.org/) and [PierceHacker](https://jloan.github.io/pierce-hacker/) | Workshop: Set up research logs on GitHub (use lesson ["Hello World GitHub Guide"](https://guides.github.com/activities/hello-world/))
 
-**Thursday [April 11]:** Workshop: Set up research logs on GitHub (cont)
+**Thursday [April 11]:** Workshop: Set up research logs on GitHub (cont) | Learn to format your Research Log in Markdown -- read/take this [lesson](https://programminghistorian.org/en/lessons/getting-started-with-markdown) from The Programming Historian.
 
 **Friday [April 12]:** (start of class) Research logs DUE | Weekly assessments and self-evaluations
 
