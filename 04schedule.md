@@ -17,11 +17,15 @@ Monday [April 8]: Intro course/talk syllabus
 
 #### Week 2
 
-Monday [April 15]
-Tuesday [April 16]
-Wednesday [April 17]
-Thursday [April 18]
-Friday [April 19]
+Monday [April 15]: Set-up week | Read (before class): Karen Dale Welsh's ["Poetry, Visual Design and the How-To Manual: Creativity in the Teaching of Technical Writing"](https://ezproxy.pierce.ctc.edu:2057/docview/237307200/fulltext/EA8940D7FEA24DE2PQ/1?accountid=2280) (2010)
+
+Tuesday [April 16]: Workshop: Lego Instruction Sets
+
+Wednesday [April 17]: Workshop: Lego Instruction Sets (cont)
+
+Thursday [April 18]: Read (before class): Multiple Tutorials on writing with Markdown and getting started with GitHub | Workshop: What makes a good tutorial/instruction set?
+
+Friday [April 19]: (start of class) Research logs DUE | Weekly assessments and self-evaluations (in class)
 
 #### Week 3
 
