@@ -3,9 +3,9 @@ layout: page
 title: Assignments
 permalink: /assignments/ 
 ---
-[Research Logs](## Research-Logs) 
+[Research Logs](#Research-Logs) 
 
-[Mini-Projects](## Mini-Projects)
+[Mini-Projects](#Mini-Projects)
 
 ## Research Logs
 
