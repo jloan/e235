@@ -3,7 +3,7 @@ layout: page
 title: Assignments
 permalink: /assignments/ 
 ---
-[Research Logs](#Research-Logs) | [Mini-Projects](#Mini-Projects) | [PierceHacker](#Project:-PierceHacker) | [OER Chapter](Project: Composing an Open Educational Resource)
+[Research Logs](#Research-Logs) | [Mini-Projects](#Mini-Projects) | [PierceHacker](#Project-PierceHacker) | [OER Chapter](#Project-Composing an Open Educational Resource)
 
 ## Research Logs
 
