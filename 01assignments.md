@@ -3,14 +3,15 @@ layout: page
 title: Assignments
 permalink: /assignments/ 
 ---
-[## Research Logs](##Research-Logs) 
-[## Mini-Projects](##Research-Logs)
+[Research Logs](## Research-Logs) 
+
+[Mini-Projects](## Mini-Projects)
 
 ## Research Logs
 
 Each week you will document what you are learning in English 235 via a Research Log Entry. The goal of these entries is for you to capture the in-process moments of insight and learning, including the posing of questions. For each entry, I will offer some brief instructions via the course site as a starting point, and you are encouraged to extend your entries beyond these instructions as unanticipated things emerge in your work. These log entries wil also serve as a resource for the self-evaluations that will be central to our assessment of your work in the course. 
 
-## Mini Projects 
+## Mini-Projects 
 
 At the beginning of the quarter we will engage in several mini projects/experiments that explore Technical Writing as a process of translation. Our jumping off point for these mini-projects/experiments will be Karen Dale Welsh's ["Poetry, Visual Design and the How-To Manual: Creativity in the Teaching of Technical Writing"](https://ezproxy.pierce.ctc.edu:2057/docview/237307200/fulltext/EA8940D7FEA24DE2PQ/1?accountid=2280) (2010). 
 
