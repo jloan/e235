@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mini-Project 1" 
-date:   2019-15-04 08:00:00
+date:   2019-04-15 08:00:00
 category: projects
 author: Jason Loan 
 ---
