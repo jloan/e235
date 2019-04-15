@@ -19,7 +19,7 @@ Monday [April 8]: Intro course/talk syllabus
 
 Monday [April 15]: Set-up week | Read (before class): Karen Dale Welsh's ["Poetry, Visual Design and the How-To Manual: Creativity in the Teaching of Technical Writing"](https://ezproxy.pierce.ctc.edu:2057/docview/237307200/fulltext/EA8940D7FEA24DE2PQ/1?accountid=2280) (2010)
 
-Tuesday [April 16]: Workshop: Lego Instruction Sets
+Tuesday [April 16]: Workshop: [Lego Instruction Sets](_posts/mini-project1.md_)
 
 Wednesday [April 17]: Workshop: Lego Instruction Sets (cont)
 
