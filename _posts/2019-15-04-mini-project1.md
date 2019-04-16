@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mini-Project 1" 
+title:  "Mini-Project 1: Composing an Instruction Set" 
 date:   2019-04-15 08:00:00
 category: projects
 author: Jason Loan 
