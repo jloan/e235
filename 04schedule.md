@@ -23,7 +23,7 @@ Tuesday [April 16]: Workshop: [Lego Instruction Sets](_posts/mini-project1.md_)
 
 Wednesday [April 17]: Workshop: Lego Instruction Sets (cont)
 
-Thursday [April 18]: Read (before class): Multiple Tutorials on [writing with Markdown](https://www.google.com/search?client=firefox-b-1-d&q=writing+with+markdown) | Workshop: What makes a good tutorial/instruction set?
+Thursday [April 18]: Read (before class): Multiple Tutorials on [writing with Markdown](https://www.google.com/search?client=firefox-b-1-d&q=writing+with+markdown) | Workshop/Mini-Project 2: [What makes a good tutorial/instruction set?](_posts/2019-04-16-miniproject2.md)
 
 Friday [April 19]: (start of class) Research logs DUE | Weekly assessments and self-evaluations (in class)
 
