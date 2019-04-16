@@ -18,7 +18,7 @@ All of this activity and work will support the process of meeting the course out
 1. Complete a collaborative team report. 
 1. Identify and articulate ethical and multicultural issues in technical writing.
 
-##Your Learning Outcomes
+## Your Learning Outcomes
 
 My goal is that the work in this class is also rooted in the learning outcomes that you can define for yourself. Throughout the class we will work on how to identify and define these outcomes. Imagine a section here for these:
 
