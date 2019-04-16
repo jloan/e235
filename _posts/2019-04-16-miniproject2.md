@@ -16,4 +16,4 @@ In this mini-project/workshop I want you to locate and consult at least 5 differ
 * Links
 * Horizontal Rule
 
-After attempting to apply some formatting/style to your Research Logs, compose a new Markdown document in your repository. In this document, rank the tutorials you consulted in your order of preference of usability. Provide a rationale for each of these rankings (i.e. why one might be ranked higher than another). And...remember to use appropriate formatting/style elemnts like *links*, etc.
+After attempting to apply some formatting/style to your Research Logs, compose a new Markdown document in your repository. In this document, rank the tutorials you consulted in your order of preference of usability. Provide a rationale for each of these rankings (i.e. why one might be ranked higher than another). And...remember to use appropriate formatting/style elemnts in composing this document (i.e. link to the tutorials you consulted).
