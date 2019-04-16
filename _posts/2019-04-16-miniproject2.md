@@ -6,7 +6,7 @@ category: projects
 author: Jason Loan 
 ---
 
-In this mini-project/workshop I want you to locate and read through/attempt to use at least 5 or guides for *writing with Markdown*. Attempt to use what you learn in the tutorials to add the following style/format elements to your Research Log(s):
+In this mini-project/workshop I want you to locate and consult at least 5 different guides/tutorials for *writing with Markdown*. Attempt to use what you learn in the tutorials to add the following style/format elements to your Research Log(s):
 
 * Headers
 * Lists
@@ -16,4 +16,4 @@ In this mini-project/workshop I want you to locate and read through/attempt to u
 * Links
 * Horizontal Rule
 
-After attempting to apply some formatting/style to your Research Logs, compose a new Markdown document in your repository. In this document, rank the tutorials you consulted in your order of preference  in terms of usability. Provide a rationale for each of these rankings. And...remember to use appropriate formatting/style elemnts like *links*, etc.
+After attempting to apply some formatting/style to your Research Logs, compose a new Markdown document in your repository. In this document, rank the tutorials you consulted in your order of preference of usability. Provide a rationale for each of these rankings (i.e. why one might be ranked higher than another). And...remember to use appropriate formatting/style elemnts like *links*, etc.
