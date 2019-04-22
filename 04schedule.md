@@ -29,18 +29,27 @@ Friday [April 19]: (start of class) Research logs DUE | Weekly assessments and s
 
 #### Week 3
 
-Monday [April 22]
-Tuesday [April 23]
-Wednesday [April 24]
-Thursday [April 25]
-Friday [April 26] -- NO CLASS (I'll be Yakima for a meeting)
+Monday [April 22]: Intro PierceHacker Project
+
+Tuesday [April 23]: Workshop (in class): PierceHacker Project (Phase 1): Surveying Students Tech Use and Needs
+
+Wednesday [April 24]: Workshop (in class): Survey (cont.). Finalize survey by end of class.
+
+Thursday [April 25]: Workshop (in class): What is an analytical report? | Distribute Surveys 
+
+Friday [April 26] -- NO CLASS (I'll be Yakima for a meeting): Research logs DUE | Weekly assessments and self-evaluations DUE | Distribute Surveys (cont.)
+
 
 #### Week 4
 
-Monday [April 29]
-Tuesday [April 30]
-Wednesday [May 1]
-Thursday [May 2]
+Monday [April 29]: Workshop: Analyzing/Reporting on Survey Data
+
+Tuesday [April 30]: Workshop: Analyzing/Reporting on Survey Data
+
+Wednesday [May 1]: Analytical Reports on Student Tech Use/Needs DUE 
+
+Thursday [May 2]: PierceHacker Project Phase 2: Taking Action (form Writer/Editor partnerships)
+
 Friday [May 3] -- NO CLASS (Faculty/Staff In-Service)
 
 #### Week 5
