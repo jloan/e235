@@ -29,7 +29,7 @@ Friday [April 19]: (start of class) Research logs DUE | Weekly assessments and s
 
 #### Week 3
 
-**Monday [April 22]**: Intro PierceHacker Project
+**Monday [April 22]**: Intro [PierceHacker Project](_posts/2019-04-22-pierce-hacker-project.md)
 
 **Tuesday [April 23]**: Workshop (in class): PierceHacker Project (Phase 1): Surveying Students Tech Use and Needs
 
