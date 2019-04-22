@@ -31,7 +31,7 @@ Friday [April 19]: (start of class) Research logs DUE | Weekly assessments and s
 
 **Monday [April 22]**: Intro [PierceHacker Project](_posts/2019-04-22-pierce-hacker-project.md)
 
-**Tuesday [April 23]**: Workshop (in class): PierceHacker Project (Phase 1): Surveying Students Tech Use and Needs
+**Tuesday [April 23]**: (before class) Read: [What Makes a Good Survey?](https://www.google.com/search?client=firefox-b-1-d&q=what+makes+a+good+survey) and [Whatis information comperency?](https://www.google.com/search?client=firefox-b-1-d&q=what+is+information+competency%3F) | Consider: How does Pierce define IC? | Workshop (in class): PierceHacker Project (Phase 1): Surveying Students Tech Use and Needs
 
 **Wednesday [April 24]**: Workshop (in class): Survey (cont.). Finalize survey by end of class.
 
