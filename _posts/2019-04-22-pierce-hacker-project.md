@@ -6,8 +6,6 @@ category: projects
 author: Jason Loan 
 ---
 
-### Project: PierceHacker
-
 In this project students will contribute lesson/tutorial materials to the [PierceHacker](https://jloan.github.io/pierce-hacker/) project website.
 
 This project will unfold in multiple phases.
@@ -16,7 +14,7 @@ This project will unfold in multiple phases.
 
 Compose a survey in order to gather data on Pierce student technology use and needs. Write an analytical report on findings. 
 
-Key question(s): What technology tutorials/lessons would be the most beneficial for Pierce students? What tools/technologies are students using in relation to thier classes/education? 
+Key question(s): What tools/technologies are students using in relation to thier classes/education? If the goal of PierceHacker is supprt Pierce students developing information competency, what technology tutorials/lessons would be the most beneficial for PierceHacker to publish?  
 
 #### Phase 2
 
