@@ -42,15 +42,15 @@ Friday [April 19]: (start of class) Research logs DUE | Weekly assessments and s
 
 #### Week 4
 
-**Monday [April 29]**: Workshop: Analyzing/Reporting on Survey Data
+**Monday [April 29]**: Workshop: Finalize/distribute Survey
 
-**Tuesday [April 30]**: Workshop: Analyzing/Reporting on Survey Data
+**Tuesday [April 30]**: Workshop: What is an analytical report?
 
-**Wednesday [May 1]**: Analytical Reports on Student Tech Use/Needs DUE 
+**Wednesday [May 1]**: Workshop: Looking at Data/Drafting report
 
-**Thursday [May 2]**: PierceHacker Project Phase 2: Taking Action (form Writer/Editor partnerships)
+**Thursday [May 2]**: Workshop: Looking at Data/Drafting report
 
-**Friday [May 3]**: NO CLASS (Faculty/Staff In-Service)
+**Friday [May 3]**: NO CLASS (Faculty/Staff In-Service) | Analytical Reports **DUE**
 
 #### Week 5
 
