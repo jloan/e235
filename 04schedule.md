@@ -44,21 +44,22 @@ Friday [April 19]: (start of class) Research logs DUE | Weekly assessments and s
 
 **Monday [April 29]**: Workshop: Finalize/distribute Survey
 
-**Tuesday [April 30]**: Workshop: What is an analytical report?
+**Tuesday [April 30]**: Workshop: Finalize/distribute Survey
 
-**Wednesday [May 1]**: Workshop: Looking at Data/Drafting report
+**Wednesday [May 1]**: Intro Analytic Reports
 
-**Thursday [May 2]**: Workshop: Looking at Data/Drafting report
+**Thursday [May 2]**: Workshop: Drafting report
 
-**Friday [May 3]**: NO CLASS (Faculty/Staff In-Service) | Analytical Reports **DUE**
+**Friday [May 3]**: NO CLASS (Faculty/Staff In-Service) | Research logs and Weekly assessments/self-evaluations **DUE**
 
 #### Week 5
 
-Monday [May 6]
-Tuesday [May 7]
-Wednesday [May 8]
-Thursday [May 9]
-Friday [May 10]
+Monday [May 6]: Initial Drafts of PierceHacker Analytical Report **DUE** | Workshop: Feedback on Report Drafts
+Tuesday [May 7]: Workshop: Revise Reports (as needed)
+Wednesday [May 8]: Workshop: Revise Reports (as needed)
+Thursday [May 9]: Form PierceHacker Writer/Editor Teams
+Friday [May 10]: Research logs and Weekly assessments/self-evaluations **DUE**
+
 
 #### Week 6
 
