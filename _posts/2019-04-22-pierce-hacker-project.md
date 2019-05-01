@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project 1: Pierce Hacker" 
+title:  "PierceHacker Project (Overview)" 
 date:   2019-04-22 10:00:00
 category: projects
 author: Jason Loan 
