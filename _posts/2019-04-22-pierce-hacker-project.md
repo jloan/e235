@@ -16,6 +16,8 @@ Compose a survey in order to gather data on Pierce student technology use and ne
 
 Key question(s): What tools/technologies are students using in relation to thier classes/education? If the goal of PierceHacker is to support Pierce students in developing information competency, what technology tutorials/lessons would be the most beneficial for PierceHacker to publish?  
 
+You can find our survey darft [here](https://forms.gle/qmAWrUh93AJ9o4Nv7) and more details about the expectaions for Analytical Reports [here](_posts/2019-05-01-phreport.md).
+
 #### Phase 2
 
 Based on findings and recommendations of analytical reports -- work in writer/editor teams to compose initial drafts of lessons/tutorials to published on the PierceHacker project site.
