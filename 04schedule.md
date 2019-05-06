@@ -55,9 +55,13 @@ Friday [April 19]: (start of class) Research logs DUE | Weekly assessments and s
 #### Week 5
 
 Monday [May 6]: Initial Drafts of PierceHacker Analytical Report **DUE** | Workshop: Feedback on Report Drafts
+
 Tuesday [May 7]: Workshop: Revise Reports (as needed)
+
 Wednesday [May 8]: Workshop: Revise Reports (as needed)
+
 Thursday [May 9]: Form PierceHacker Writer/Editor Teams
+
 Friday [May 10]: Research logs and Weekly assessments/self-evaluations **DUE**
 
 
