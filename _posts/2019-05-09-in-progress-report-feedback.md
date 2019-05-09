@@ -6,6 +6,10 @@ category: projects
 author: Jason Loan 
 ---
 
+#### Share Drafts
+
+Share your drafts to this [folder](https://drive.google.com/drive/folders/1sMypDwn0sshCwoWCEb8-fIJyl91Elxee?usp=sharing).
+
 #### Big Questions
 
 Some questions to ask and discuss for in-progress drafts. These are questions I have as the audience/solititor of the reports:
