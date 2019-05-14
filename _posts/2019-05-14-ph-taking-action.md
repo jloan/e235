@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Takin Action on Reports" 
+title:  "Taking Action on Reports" 
 date:   2019-05-14 10:00:00
 category: projects
 author: Jason Loan 
