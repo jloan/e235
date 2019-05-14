@@ -12,7 +12,7 @@ In the next phase of our work with PierceHacker, we'll be taking action on the r
 Working in small teams of writers/editors, utilize recommendations from our analytic reports to draft:
 
 * Two tutorials/lessons
-* One additional project resources (e.g. revised survey, purposed addition to project website, promotional poster, etc.)
+* One additional project resource (e.g. revised survey, purposed addition to project website, promotional poster, etc.)
 
 ## Writing Tutorials/Lessons
 
