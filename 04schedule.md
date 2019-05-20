@@ -69,29 +69,29 @@ Friday [May 10]: Research logs and Weekly assessments/self-evaluations **DUE**
 
 Monday [May 13]: Revised/Finalized Reports **DUE**
 
-Tuesday [May 14]
+Tuesday [May 14]: Workshop: Taking Action on Reports
 
-Wednesday [May 15]
+Wednesday [May 15]: Workshop: Taking Action on Reports
 
-Thursday [May 16]
+Thursday [May 16]: Workshop: Taking Action on Reports
 
-Friday [May 17]
+Friday [May 17]: Workshop: Taking Action on Reports 
 
 #### Week 7
 
-Monday [May 20]
-Tuesday [May 21]
-Wednesday [May 22]
-Thursday [May 23]
-Friday [May 24]
+Monday [May 20]: Workshop: Taking Action on Reports
+Tuesday [May 21]: Workshop: Taking Action on Reports
+Wednesday [May 22]:  Drafts of PierceHacker Tutorials/Resources **due**
+Thursday [May 23]: Feedback on PierceHacker Materials
+Friday [May 24]: Feedback on PierceHacker Materials | Research logs and Weekly assessments/self-evaluations **DUE**
 
 #### Week 8
 
 Monday [May 27] -- NO CLASS (Memorial Day)
-Tuesday [May 28]
-Wednesday [May 29]
-Thursday [May 30]
-Friday [May 31]
+Tuesday [May 28]: Set-Up Final Project (OER Chapters)
+Wednesday [May 29] -- TBD Jason away at conference
+Thursday [May 30] -- TBD Jason away at conference
+Friday [May 31] -- TBD Jason away at conference | Research logs and Weekly assessments/self-evaluations **DUE**
 
 #### Week 9
 
