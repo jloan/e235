@@ -103,23 +103,33 @@ Friday [May 31] -- TBD Jason away at conference | Research logs and Weekly asses
 
 #### Week 9
 
-Monday [June 3]
-Tuesday [June 4]
-Wednesday [June 5]
-Thursday [June 6]
-Friday [June 7]
+Monday [June 3]: Final Project Work
+
+Tuesday [June 4]: Final Project Work
+
+Wednesday [June 5]: Final Project Work
+
+Thursday [June 6]: Final Project Work
+
+Friday [June 7]: Final Project Work | Assessment Declarations
 
 #### Week 10
 
-Monday [June 10]
-Tuesday [June 11]
-Wednesday [June 12]
-Thursday [June 13]
-Friday [June 14]
+Monday [June 10]: Final Project Work
+
+Tuesday [June 11]: Final Project Work
+
+Wednesday [June 12]: Final Project Work
+
+Thursday [June 13]: Final Project Work
+
+Friday [June 14]: Final Project Contributions **DUE**
 
 #### Week 11
 
-Monday [June 17]
-Tuesday [June 18]
+Monday [June 17]: No Class Meeting | Conferences (TBD)
+
+Tuesday [June 18]: No Class Meeting | Conferences (TBD) | Final Self-Evaluations **DUE**
+
 
 
